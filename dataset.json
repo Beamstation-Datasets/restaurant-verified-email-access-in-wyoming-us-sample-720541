@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Wyoming, US",
+  "export_job_id": "0388263f-0798-4539-bd51-d47972ab34de",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 720541,
+  "location_name": "Wyoming",
+  "location_type": "state",
+  "repo_name": "restaurant-verified-email-access-in-wyoming-us-sample-720541",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/720541/beamstation_720541_restaurants-us-wy_SAMPLE_DIST.csv",
+  "sample_pct": 11.98,
+  "sample_records": 20,
+  "sample_sha256": "c290b601e16d2f1951e672e6d84cb7c4c83b0177b146848af38ef1dde9e52fb0",
+  "sample_size_bytes": 92603,
+  "total_records": 167,
+  "updated_at": "2026-04-01T01:11:07.328112+00:00"
+}
