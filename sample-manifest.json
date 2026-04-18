@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0388263f-0798-4539-bd51-d47972ab34de",
+  "export_job_id": "b122f962-4b31-4fd5-b758-dd06085a703c",
   "id_short": 720541,
-  "published_at": "2026-04-16T19:08:35Z",
+  "published_at": "2026-04-18T19:45:18Z",
   "repo_name": "restaurant-verified-email-access-in-wyoming-us-sample-720541",
   "sample_asset_name": "beamstation_720541_restaurants-us-wy_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/720541/beamstation_720541_restaurants-us-wy_SAMPLE_DIST.csv",
   "sample_records": 20,
   "sample_sha256": "c290b601e16d2f1951e672e6d84cb7c4c83b0177b146848af38ef1dde9e52fb0",
   "sample_size_bytes": 92603,
-  "total_records": 167
+  "total_records": 207
 }
