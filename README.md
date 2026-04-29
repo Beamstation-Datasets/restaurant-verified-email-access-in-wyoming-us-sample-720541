@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Wyoming, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 21 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `720541` |
 | Location | Wyoming |
 | Category | Restaurants |
-| Full dataset size | 106 records |
-| Free sample size | 10 records (9.43%) |
-| Last export | 2026-04-22T08:23:42.039684+00:00 |
+| Full dataset size | 215 records |
+| Free sample size | 21 records (9.77%) |
+| Last export | 2026-04-29T10:00:51.966152+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-wyoming-us-sample-720541/releases/download/sample-latest/beamstation_720541_restaurants-us-wy_SAMPLE_DIST.csv) |
 
 ## What is in this sample
